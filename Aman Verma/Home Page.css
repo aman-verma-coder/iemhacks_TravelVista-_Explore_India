@@ -1,0 +1,349 @@
+body {
+    background-color: #C3E0E5;
+}
+
+header {
+    /* background-color: #274472; */
+    width: 100%;
+    height: 100rem;
+}
+
+#navigation-bar {
+    width: 100%;
+    position: fixed;
+    left: 0rem;
+    top: 0;
+}
+
+.nav-bar {
+    height: 3.5rem;
+    width: 100%;
+    /* border-left: 1px solid #C3E0E5;
+    border-right: 1px solid #C3E0E5;
+    border-top: 1px solid #C3E0E5; */
+    /* background-color: #274472; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2rem;
+
+}
+
+.nav-bar>div {
+    position: relative;
+    bottom: 0.15rem;
+}
+
+.nav-icons {
+    width: 40%;
+    color: aliceblue;
+    display: flex;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.nav-icons p {
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.navbar-icons {
+    margin-left: 0.5rem;
+    position: relative;
+    top: 0.0.75rem;
+}
+
+.search-icon {
+    position: relative;
+    top: 0.125rem;
+}
+
+.website-name {
+    color: aliceblue;
+    height: 1.rem;
+    border: 1px solid aliceblue;
+    border-radius: 40%;
+}
+
+.login-signup {
+    color: aliceblue;
+    display: flex;
+}
+
+.login-signup>p {
+    height: fit-content;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+}
+
+/* .nav-bar:hover {
+    border-top: 2px solid aliceblue;
+    border-left: 2px solid aliceblue;
+    border-right: 2px solid aliceblue;
+    border: 2px solid aliceblue;
+} */
+
+/* #web-name:hover {
+    border-radius: 0%;
+    border: 1px solid aliceblue;
+    opacity: 2;
+    justify-content: center;
+} */
+.nav-bar p:hover {
+    border-radius: 0%;
+    border: 1px solid aliceblue;
+}
+
+.big-search {
+    font-size: 1.75rem;
+    color: aliceblue;
+    margin-left: 0.5rem;
+}
+
+.search-btn {
+    width: 90%;
+    /* height: 2rem; */
+    background-color: aliceblue;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.search-bar form {
+    display: flex;
+    justify-content: center;
+    height: 2rem;
+}
+
+.search-bar {
+    height: 3rem;
+    /* border-left: 1px solid #C3E0E5;
+    border-right: 1px solid #C3E0E5;
+    border-bottom: 1px solid #C3E0E5; */
+}
+
+.navigation-bar {
+    width: 100%;
+    background-color: #274472;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    height: auto;
+    width: 100%;
+}
+
+.search-bar form {
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.login-page {
+    /* border: 0.1rem solid black; */
+    background-color: rgba(0, 0, 0, 0.7);
+    /* box-shadow: 0.5rem 0.5rem 1rem black; */
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: -125%;
+    left: 0rem;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-page {
+    /* border: 0.1rem solid black; */
+    background-color: rgba(0, 0, 0, 0.7);
+    /* box-shadow: 0.5rem 0.5rem 1rem black; */
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: -125%;
+    left: 0rem;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-page-click {
+    position: fixed;
+    top: 0rem;
+    left: 0rem;
+}
+
+.signup-page-click {
+    position: fixed;
+    top: 0rem;
+    left: 0rem;
+}
+
+.login-page form {
+    height: 25rem;
+    width: 25rem;
+    background-color: aliceblue;
+    margin: 2rem;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.signup-page form {
+    height: 25rem;
+    width: 25rem;
+    background-color: aliceblue;
+    margin: 2rem;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.login-page form h3 {
+    font-size: 2rem;
+    color: #725527;
+    text-transform: unset;
+    text-align: center;
+    padding: 1rem 0rem;
+}
+
+.signup-page form h3 {
+    font-size: 2rem;
+    color: #725527;
+    text-transform: unset;
+    text-align: center;
+    padding: 0.5rem 0rem;
+}
+
+.login-page form .box {
+    height: 2rem;
+    width: 100%;
+    padding: 0rem;
+    text-align: center;
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+    margin: 0.6rem 0rem;
+    border: 0.1rem solid rgba(0, 0, 0, 0.4);
+    text-transform: none;
+}
+
+.signup-page form .box {
+    height: 1.75rem;
+    width: 100%;
+    padding: 0rem;
+    text-align: center;
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+    margin: 0.5rem 0rem;
+    border: 0.1rem solid rgba(0, 0, 0, 0.4);
+    text-transform: none;
+}
+
+.login-page form .box:focus {
+    border-color: #345B98;
+}
+
+.signup-page form .box:focus {
+    border-color: #345B98;
+}
+
+.login-page form #remember {
+    text-align: start;
+    margin-top: 2rem;
+}
+
+.signup-page form #remember2 {
+    text-align: start;
+    margin-top: 1.5rem;
+}
+
+.login-page form label,
+.login-page form #remember {
+    position: relative;
+    right: 8.35rem;
+    font-size: 1.25rem;
+}
+
+.signup-page form label,
+.signup-page form #remember2 {
+    position: relative;
+    right: 8.35rem;
+    font-size: 1.25rem;
+}
+
+.login-page form .btn {
+    display: block;
+    width: 100%;
+}
+
+.signup-page form .btn {
+    display: block;
+    width: 100%;
+}
+
+.login-page form p {
+    text-align: start;
+    /* padding: 0.5rem 0rem; */
+    font-size: 1.25rem;
+}
+
+.signup-page form p {
+    text-align: start;
+    /* padding: 0.5rem 0rem; */
+    font-size: 1.25rem;
+}
+
+.login-page form p a {
+    color: #345B98;
+    text-decoration: none;
+}
+
+.signup-page form p a {
+    color: #345B98;
+    text-decoration: none;
+}
+
+.login-page form p a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.signup-page form p a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btn {
+    font-size: 1.25rem;
+    display: inline-block;
+    margin-top: 1rem;
+    background-color: #345B98;
+    color: aliceblue;
+    padding: 0.8rem 3rem;
+    border: 0.15rem solid #345B98;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+    color: #345B98;
+}
