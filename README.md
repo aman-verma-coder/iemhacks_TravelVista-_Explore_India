@@ -1,3 +1,3 @@
 # iemhacks_TravelVista-Explore_India
 
-my name is affan i contrubuted in content (Attraction) part in this project
+My name is MD Affan Asghar pursuing CSE at NIT kolkata, my contribution is in content part(Attraction) in this project.
