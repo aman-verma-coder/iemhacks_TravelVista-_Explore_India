@@ -53,3 +53,144 @@ form {
   justify-content: center;
   width: 300px;
 }
+/* part one end  */
+.gateway {
+  box-sizing: border-box;
+  margin-left: 700px;
+  margin-top: -300px;
+  width: 400px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.howrah {
+  box-sizing: border-box;
+  margin-left: 700px;
+  margin-top: -300px;
+  width: 400px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.karbac {
+  box-sizing: border-box;
+  margin-left: 700px;
+  margin-top: -300px;
+  width: 400px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.Ladakh {
+  box-sizing: border-box;
+  margin-left: 700px;
+  margin-top: -300px;
+  width: 400px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.SmallImage {
+  box-sizing: border-box;
+  margin: 80px;
+  /* padding: 30px; */
+  display: grid;
+}
+.gate,
+.how,
+.kb,
+.lad {
+  height: 350px;
+  width: 500px;
+}
+/* .how {
+  height: 300px;
+  width: 450px;
+}
+.kb {
+  height: 300px;
+  width: 450px;
+}
+.lad {
+  height: 300px;
+  width: 450px;
+} */
+.email {
+  box-sizing: border-box;
+  width: 30%;
+  margin-left: 890px;
+}
+
+.card-group {
+  box-sizing: border-box;
+  height: 500px;
+}
+.card-img-top {
+  height: 350px;
+}
+
+footer {
+  background-color: #262626;
+  color: #ffffff;
+  padding: 40px 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.footer-logo {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.footer-nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+.footer-nav li {
+  margin-right: 30px;
+}
+.footer-nav li:last-child {
+  margin-right: 0;
+}
+.footer-nav a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.footer-nav a:hover {
+  color: #ff9900;
+}
+.footer-social {
+  margin-top: 20px;
+}
+.footer-social a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-color: #ff9900;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 10px;
+  transition: background-color 0.3s ease;
+}
+.footer-social a:hover {
+  background-color: #262626;
+}
+
+/* darkmode */
+
+/* @media (prefers-color-scheme: dark) {
+    *{
+        background-color: black;
+        color:  white;
+    }
+} */
