@@ -1,0 +1,71 @@
+<div>
+    <h2 class="heading">Film City - Mumbai</h2>
+    <p><b>Mumbai Filmcity</b> is located in the heart of Mumbai also known as Bollywood, right next door to lakeside. Our convenient location is a stone's throw away from hotels, restaurants, and downtown, but for enough to escape the hustle and bustle of city life.
+
+        1 Km from city Area
+        2 Km from Airport
+        3 Km from the National WE Highway
+        Mumbai Filmcity can be conveniently accessed by any vehical bike, car or helicopter.</p>
+        <a href="https://filmcitymumbai.org/Filmcity/photo_gallery">gallery photos source</a>
+        Key Features and Facilities:
+
+        Studio Complexes: Film City encompasses multiple studio complexes equipped with sound stages, indoor sets, and outdoor shooting areas designed to accommodate a wide range of film and television productions.
+        
+        Indoor and Outdoor Sets: It boasts numerous indoor and outdoor sets replicating various locations, including cities, villages, historical sites, and more. This diversity allows filmmakers to shoot a wide variety of scenes without traveling extensively.
+        
+        Post-Production Facilities: Film City offers state-of-the-art post-production facilities including editing suites, dubbing studios, sound mixing studios, and more.
+        
+        Production Offices: Many production companies and film-related businesses have their offices within the Film City premises.
+        
+        Helipad: Film City features a helipad for convenient access.
+        
+        Entry and Permissions: Entry to Film City is restricted and requires official permissions. It's primarily accessible to industry professionals and those with authorized business.
+        
+        Tours and Tourism: Film City also offers guided tours for tourists interested in exploring the film sets and understanding the filmmaking process. These tours allow visitors to catch a glimpse of the industry's workings.
+        
+        Events and Functions: The complex is also used for hosting events, award ceremonies, exhibitions, and promotional activities related to the entertainment industry.
+        
+        Film City Tours: These tours take visitors through the various sets, studios, and locations within the complex. They provide insights into the history of Indian cinema and the production process.
+        
+        Notable Attractions Within Film City:
+        
+        Kamalistan Studio: One of the prominent studios within Film City.
+        Manoranjan Studio: Known for its historical significance in the Indian film industry.
+        Garden of Five Senses: An intricately designed garden within Film City.
+        <img src="filmcitygate.jpg" class="img-fluid" alt="...">
+    </div>
+
+ <div>
+        <h2 class="heading">Marine Drive</h2>
+        <p>Marine Drive is a prominent and iconic promenade in Mumbai, Maharashtra, India. It's one of the most popular landmarks in the city and is often referred to as the "Queen's Necklace" due to its crescent shape and the sparkling lights that resemble a necklace when viewed from a distance at night. Here are the full details about Marine Drive:
+
+            Location: Marine Drive is situated along the Arabian Sea coastline in South Mumbai, stretching from Nariman Point to Girgaum Chowpatty.
+            
+            Features and Highlights:
+            
+            Promenade: Marine Drive features a well-maintained walkway that runs parallel to the coastline. This promenade is a favorite spot for locals and tourists to take leisurely strolls, jog, and enjoy the sea breeze.
+            
+            Bay View: The promenade offers stunning views of the Arabian Sea and is a popular spot for relaxing, watching sunsets, and capturing photographs.
+            
+            Crescent Shape: Marine Drive is designed in a sweeping, curving pattern resembling a semi-circular bay. This shape allows for panoramic sea views.
+            
+            Art Deco Architecture: The buildings lining the inner side of Marine Drive are known for their distinctive Art Deco architecture, which is a significant feature of South Mumbai's skyline.
+            
+            Night Illumination: Marine Drive is famous for its nighttime illumination. The lights along the promenade create a necklace-like effect, which is why it's often referred to as the "Queen's Necklace." The view is particularly enchanting after sunset.
+            
+            Chowpatty Beach: At the northern end of Marine Drive lies Girgaum Chowpatty, a popular city beach known for its local food stalls, cultural events, and festivals.
+            
+            Cafes and Restaurants: Several cafes, restaurants, and eateries are located along Marine Drive, offering a range of cuisines and dining experiences.
+            
+            Connectivity: Marine Drive is well-connected to various parts of Mumbai and can be easily accessed by road. It's a popular spot for both locals and tourists, making it easily recognizable.
+            
+            Local Culture: The promenade often sees people engaging in various activities such as jogging, yoga, and kite flying. It's a place where the local culture and lifestyle are on full display.
+            
+            Tips for Visitors:
+            
+            Sunset Views: Watching the sunset from Marine Drive is a must-do experience. The promenade offers a picturesque backdrop as the sun sets over the Arabian Sea.
+            Evening Strolls: Evening hours are particularly pleasant for leisurely walks along the promenade. The illuminated view at night is also breathtaking.
+            Photography: The picturesque setting and beautiful architecture make Marine Drive a great location for photography.
+            Marine Drive stands as a symbol of Mumbai's vibrant urban life, offering a mix of leisure, culture, and natural beauty. It's a place where locals and visitors alike gather to unwind and enjoy the city's coastal charm.
+            </p>
+    </div>
