@@ -51,8 +51,9 @@ function setCookie(name, value, days) {
     }
   }
   
-  var attempt = 3;
+
   function validate() {
+    var attempt = 3;
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
     const username1 = localStorage.getItem("username");
