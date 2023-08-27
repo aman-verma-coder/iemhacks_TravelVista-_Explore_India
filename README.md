@@ -1,15 +1,6 @@
 # iemhacks_TravelVista-Explore_India
+
 Team Members GitHub usernames -
-
-1. affancoder 
-2. saket687
-3. amanverma0525
-4. sumita2611
-
-Problem Statement- 
-Tourism has a potential to contribute a lot in the country’s economy. According to some official data, a foreigner when comes to India, they spend around 3x-4x more money than than the domestic tourists. Another data says that if someone would do a business meeting the more than 65% of them travels with a companion and after meetings more than 50% of them plans holiday at the nearby tourist sites. More than 55% people who comes India for a business meeting, spends around 8x-10x more than an average domes# iemhacks_TravelVista-Explore_India
-Team Members GitHub usernames -
-
 1. affancoder 
 2. saket687
 3. amanverma0525
