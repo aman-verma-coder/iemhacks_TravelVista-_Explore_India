@@ -16,7 +16,7 @@ const attractionsData = [
 
 
 const searchButton = document.getElementById("search-button");
-const searchInput = document.getElementById("search-input");
+const searchInput = document.getElementById("search");
 const searchResults = document.getElementById("search-results");
 
 searchButton.addEventListener("click", function () {
