@@ -22,8 +22,7 @@ const searchResults = document.getElementById("search-results");
 searchButton.addEventListener("click", function () {
  const searchTerm = searchInput.value.toLowerCase();
  const filteredAttractions = attractionsData.filter(attraction =>
-   attraction.name.toLowerCase().includes(searchTerm) ||
-   attraction.description.toLowerCase().includes(searchTerm)
+   attraction.name.toLowerCase().includes(searchTerm)
  );
 
  displaySearchResults(filteredAttractions);
