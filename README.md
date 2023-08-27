@@ -1,4 +1,3 @@
-# iemhacks_TravelVista-_Explore_India
 # iemhacks_TravelVista-Explore_India
 Team Members GitHub usernames -
 
