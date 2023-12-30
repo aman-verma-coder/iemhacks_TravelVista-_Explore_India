@@ -3,7 +3,7 @@
 Team Members GitHub usernames -
 1. affancoder 
 2. saket687
-3. amanverma0525
+3. aman-verma-coder
 4. sumita2611
 
 Problem Statement- 
